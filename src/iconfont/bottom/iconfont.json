@@ -1,0 +1,23 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1128742",
+      "name": "操作",
+      "font_class": "caozuo",
+      "unicode": "e7b5",
+      "unicode_decimal": 59317
+    },
+    {
+      "icon_id": "16563628",
+      "name": "查看",
+      "font_class": "cangpeitubiao_chakan",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    }
+  ]
+}
